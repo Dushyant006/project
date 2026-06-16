@@ -1,0 +1,151 @@
+server_id,department,cpu_utilization,monthly_cost,status
+SRV-001,Operations,17.0,362.66,Active
+SRV-002,Data Science,73.92,826.59,Active
+SRV-003,Finance,62.24,81.71,Active
+SRV-004,Engineering,33.61,740.33,Active
+SRV-005,Finance,72.28,855.03,Active
+SRV-006,Human Resources,50.94,366.31,Active
+SRV-007,Product Management,75.7,229.41,Active
+SRV-008,Human Resources,37.23,293.69,Active
+SRV-009,Product Management,23.18,483.82,Active
+SRV-010,Marketing,63.3,977.23,Active
+SRV-011,Operations,2.91,1168.95,Idle
+SRV-012,Human Resources,59.16,1002.96,Active
+SRV-013,Finance,61.19,858.78,Active
+SRV-014,Engineering,76.85,1182.93,Active
+SRV-015,Product Management,84.32,484.05,Active
+SRV-016,Human Resources,28.01,455.34,Active
+SRV-017,Operations,71.15,834.5,Active
+SRV-018,Engineering,9.89,661.93,Maintenance
+SRV-019,Data Science,51.98,356.79,Active
+SRV-020,Operations,4.07,419.55,Maintenance
+SRV-021,Product Management,33.32,82.08,Active
+SRV-022,Marketing,1.7,288.69,Idle
+SRV-023,Finance,32.01,621.61,Active
+SRV-024,Operations,1.14,206.27,Idle
+SRV-025,Operations,8.55,907.8,Maintenance
+SRV-026,Human Resources,6.59,298.32,Maintenance
+SRV-027,Data Science,7.91,917.93,Maintenance
+SRV-028,Product Management,27.23,229.78,Active
+SRV-029,Operations,3.18,489.41,Idle
+SRV-030,Finance,2.88,1166.6,Idle
+SRV-031,Product Management,69.42,177.31,Active
+SRV-032,Finance,76.49,437.9,Active
+SRV-033,Marketing,1.21,48.75,Idle
+SRV-034,Operations,92.75,925.07,Active
+SRV-035,Finance,84.64,389.7,Active
+SRV-036,Operations,9.53,221.53,Maintenance
+SRV-037,Product Management,58.15,944.31,Active
+SRV-038,Finance,62.92,609.34,Active
+SRV-039,Engineering,85.3,1005.57,Active
+SRV-040,Marketing,19.63,1059.1,Active
+SRV-041,Engineering,73.55,987.51,Active
+SRV-042,Product Management,11.72,193.29,Maintenance
+SRV-043,Human Resources,3.31,654.46,Maintenance
+SRV-044,Finance,4.84,1117.9,Idle
+SRV-045,Product Management,72.04,505.84,Active
+SRV-046,Operations,50.05,642.8,Active
+SRV-047,Engineering,32.98,435.49,Active
+SRV-048,Finance,4.22,299.35,Maintenance
+SRV-049,Engineering,33.32,1090.76,Active
+SRV-050,Product Management,20.67,319.9,Active
+SRV-051,Operations,1.46,197.82,Idle
+SRV-052,Finance,7.62,951.24,Maintenance
+SRV-053,Product Management,1.36,156.96,Idle
+SRV-054,Human Resources,48.89,584.41,Active
+SRV-055,Operations,68.87,1181.71,Active
+SRV-056,Engineering,47.21,436.89,Active
+SRV-057,Product Management,34.89,264.69,Active
+SRV-058,Human Resources,48.75,366.72,Active
+SRV-059,Data Science,50.45,1039.86,Active
+SRV-060,Finance,19.05,1199.17,Active
+SRV-061,Product Management,92.52,1114.95,Active
+SRV-062,Product Management,28.3,605.92,Active
+SRV-063,Data Science,4.56,235.16,Idle
+SRV-064,Engineering,1.69,950.6,Idle
+SRV-065,Human Resources,48.84,1150.7,Active
+SRV-066,Product Management,10.27,607.11,Maintenance
+SRV-067,Data Science,32.42,112.55,Active
+SRV-068,Operations,1.85,407.21,Maintenance
+SRV-069,Engineering,7.68,1106.89,Maintenance
+SRV-070,Finance,19.55,631.54,Active
+SRV-071,Product Management,20.48,123.49,Active
+SRV-072,Product Management,47.3,1132.54,Active
+SRV-073,Finance,61.31,90.9,Active
+SRV-074,Engineering,3.46,697.84,Idle
+SRV-075,Marketing,31.34,872.2,Active
+SRV-076,Data Science,46.66,820.8,Active
+SRV-077,Marketing,1.92,913.4,Idle
+SRV-078,Engineering,51.66,1198.21,Active
+SRV-079,Engineering,58.01,629.3,Active
+SRV-080,Data Science,85.47,1060.56,Active
+SRV-081,Marketing,27.62,1007.98,Active
+SRV-082,Operations,63.93,1185.25,Active
+SRV-083,Operations,1.11,988.76,Maintenance
+SRV-084,Marketing,90.11,200.11,Active
+SRV-085,Engineering,74.39,224.54,Active
+SRV-086,Marketing,3.95,441.03,Maintenance
+SRV-087,Operations,55.43,335.05,Active
+SRV-088,Product Management,22.38,534.23,Active
+SRV-089,Marketing,15.28,935.64,Active
+SRV-090,Operations,27.93,555.32,Active
+SRV-091,Operations,3.02,174.21,Idle
+SRV-092,Operations,58.65,1008.96,Active
+SRV-093,Finance,3.07,192.2,Maintenance
+SRV-094,Marketing,86.92,964.52,Active
+SRV-095,Product Management,86.91,287.64,Active
+SRV-096,Data Science,43.29,691.67,Active
+SRV-097,Product Management,4.88,910.65,Idle
+SRV-098,Data Science,93.1,981.44,Active
+SRV-099,Human Resources,29.35,1112.78,Active
+SRV-100,Product Management,4.11,1042.99,Idle
+SRV-101,Product Management,36.34,954.42,Active
+SRV-102,Engineering,4.42,1036.68,Idle
+SRV-103,Data Science,80.33,576.65,Active
+SRV-104,Marketing,32.83,807.34,Active
+SRV-105,Human Resources,37.29,125.18,Active
+SRV-106,Product Management,43.09,633.36,Active
+SRV-107,Operations,5.64,76.88,Maintenance
+SRV-108,Marketing,61.45,1181.0,Active
+SRV-109,Engineering,62.73,444.27,Active
+SRV-110,Product Management,49.91,1181.79,Active
+SRV-111,Engineering,4.55,264.54,Idle
+SRV-112,Engineering,0.51,1114.04,Idle
+SRV-113,Finance,44.14,125.82,Active
+SRV-114,Operations,64.85,811.21,Active
+SRV-115,Engineering,55.57,815.26,Active
+SRV-116,Marketing,3.64,685.35,Idle
+SRV-117,Data Science,3.49,482.91,Idle
+SRV-118,Operations,64.24,392.6,Active
+SRV-119,Finance,39.31,287.76,Active
+SRV-120,Product Management,9.49,417.2,Maintenance
+SRV-121,Human Resources,3.54,635.41,Idle
+SRV-122,Product Management,67.71,372.77,Active
+SRV-123,Operations,5.69,990.28,Maintenance
+SRV-124,Product Management,68.82,304.46,Active
+SRV-125,Data Science,16.95,327.79,Active
+SRV-126,Human Resources,12.9,129.12,Maintenance
+SRV-127,Human Resources,3.72,849.29,Maintenance
+SRV-128,Human Resources,1.6,802.75,Idle
+SRV-129,Engineering,77.27,297.76,Active
+SRV-130,Product Management,7.5,688.8,Maintenance
+SRV-131,Product Management,51.52,970.64,Active
+SRV-132,Operations,14.83,732.75,Maintenance
+SRV-133,Product Management,3.26,875.76,Idle
+SRV-134,Finance,4.24,677.79,Idle
+SRV-135,Data Science,2.53,913.3,Idle
+SRV-136,Product Management,76.27,647.1,Active
+SRV-137,Operations,36.97,134.49,Active
+SRV-138,Marketing,36.74,414.26,Active
+SRV-139,Finance,26.07,312.11,Active
+SRV-140,Operations,71.51,119.18,Active
+SRV-141,Human Resources,58.41,525.22,Active
+SRV-142,Data Science,2.25,934.11,Idle
+SRV-143,Operations,83.54,929.26,Active
+SRV-144,Human Resources,0.53,451.28,Idle
+SRV-145,Product Management,4.34,1146.21,Idle
+SRV-146,Human Resources,11.47,675.78,Maintenance
+SRV-147,Finance,54.06,360.24,Active
+SRV-148,Human Resources,46.11,817.55,Active
+SRV-149,Product Management,3.76,1015.78,Idle
+SRV-150,Data Science,8.48,1092.5,Maintenance
