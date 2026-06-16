@@ -84,7 +84,6 @@ if uploaded_file is not None:
 if uploaded_file is None and "last_processed_file" in st.session_state:
     del st.session_state["last_processed_file"]
 
-
 # ✏️ 2nd Feature: Edit Data (Add or Update Records Manually)
 st.sidebar.markdown("---")
 st.sidebar.header("2. Edit Records")
